@@ -1,0 +1,5 @@
+1. Error in Circle 2. super parameters were in the wrong order compared to Circle2 parameters. Fisxed by changing the parameters in super.
+
+2. Error in Circle. center.y calculation is imcorrect as it uses the xOffset. Fixed by changing it to the yOffset.
+
+3. Error in Circle. scale calculation incorrect. Fixed by multiplying radius and factor instead of adding.
